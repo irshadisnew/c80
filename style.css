@@ -1,0 +1,32 @@
+#sb
+{
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+#sort
+{
+    display: none;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+
+input
+{
+    margin: 10px;
+}
+#d1
+{
+    border: 6px solid black;
+    padding: 10px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 50%;
+}
+#d2
+{
+    border: 6px solid black;
+    padding: 10px;
+    background-color: goldenrod;
+    border-radius: 10px;
+    width: 50%;
+}
